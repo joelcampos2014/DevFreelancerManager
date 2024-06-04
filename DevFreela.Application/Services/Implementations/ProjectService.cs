@@ -36,7 +36,7 @@ namespace DevFreela.Application.Services.Implementations
             throw new NotImplementedException();
         }
 
-        public ProjectDetailsViewModel GetById(string id)
+        public ProjectDetailsViewModel GetById(int id)
         {
             throw new NotImplementedException();
         }
