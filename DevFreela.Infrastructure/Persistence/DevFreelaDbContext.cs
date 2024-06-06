@@ -10,8 +10,8 @@ namespace DevFreela.Infrastructure.Persistence
             Projects = new List<Project>()
             {
                 new Project("Meu projeto ASPNET Core", "Minha descrição de Projeto 1", 1, 1, 10000),
-                new Project("Meu projeto ASPNET Core", "Minha descrição de Projeto 2", 1, 1, 20000),
-                new Project("Meu projeto ASPNET Core", "Minha descrição de Projeto 3", 1, 1, 30000),
+                new Project("Projeto Tricolor", "Minha descrição de Projeto 2", 1, 1, 20000),
+                new Project("Projeto Berenice", "Minha descrição de Projeto 3", 1, 1, 30000),
             };
 
             Users = new List<User>()
